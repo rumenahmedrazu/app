@@ -1,5 +1,5 @@
 {
-   "DefenceJobPrep":{
+   "EducationAppUser":{
       "value":false,
       "msg":"TESTING"
    }
